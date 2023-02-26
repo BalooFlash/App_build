@@ -1,0 +1,2 @@
+(this["webpackJsonp@minimal/material-kit-react"]=this["webpackJsonp@minimal/material-kit-react"]||[]).push([[22],{1900:function(t,e,i){"use strict";i.r(e),i.d(e,"default",(function(){return s}));var a=i(9),n=i(847),c=i(1263),r=i(1),o=Object(a.a)(n.a)({height:"100%"}),l=Object(a.a)("div")((function(){return{overflow:"hidden",position:"relative"}}));function s(){return Object(r.jsx)(o,{title:"App | Backed Capital",id:"move_top",children:Object(r.jsx)(l,{children:Object(r.jsx)(c.a,{})})})}}}]);
+//# sourceMappingURL=22.45176f33.chunk.js.map
